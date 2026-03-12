@@ -24,7 +24,7 @@ Scan ALL files recursively in the current directory:
 - composer.json / composer.lock
 - Any build artifacts or bundled files
 
-## Step 3 — Audit for These 28 Categories
+## Step 3 — Audit for These 33 Categories
 
 **CRITICAL OUTPUT RULE: Only report categories where you actually find issues. Do not list categories that pass. Do not give general advice without a concrete finding.**
 
