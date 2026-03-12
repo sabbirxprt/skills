@@ -14,7 +14,7 @@ Runs a **security-only audit** of WordPress plugins (PHP, JS, etc.): SQL injecti
 
 ## Install a Skill
 
-Using the [skills CLI](https://github.com/sabbirxprt/skills) (open agent skills ecosystem):
+Using the [skills CLI](https://github.com/sabbirxprt/skills) (open agent skills ecosystem). CLI options and scope below are based on the [Skills CLI documentation](https://skills.sh/docs/cli).
 
 ```bash
 npx skills add sabbirxprt/skills
@@ -23,7 +23,7 @@ npx skills add sabbirxprt/skills
 Example:
 
 ```bash
-npx skills add sabbirxprt/ai-plugin-review-skills
+npx skills add sabbirxprt/skills
 ```
 
 
