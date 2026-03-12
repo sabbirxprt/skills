@@ -245,8 +245,3 @@ Critical: X | High: X | Medium: X
 ```
 
 If no security issues are found, state: "No security issues detected in scanned files."
-
-## Contributors
-
-- [azizultex](https://github.com/azizultex)
-- [sabbirxprt](https://github.com/sabbirxprt)

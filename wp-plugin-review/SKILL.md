@@ -487,8 +487,3 @@ Blockers: X | High: X | Medium: X | Low: X
 ```
 
 If no issues are found in a category, do not mention that category at all.
-
-## Contributors
-
-- [azizultex](https://github.com/azizultex)
-- [sabbirxprt](https://github.com/sabbirxprt)
