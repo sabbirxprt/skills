@@ -1,6 +1,6 @@
 ---
 name: wp-security-scan
-description: Runs a security-only audit of WordPress plugins (PHP, JS, etc.): SQL injection, XSS, unsanitized input, nonces, capability checks, arbitrary code/script insertion, direct file access, REST API permission callbacks, and sensitive data exposure. Use when you need a focused security scan of a plugin codebase before deployment or submission.
+description: Runs a security-only audit of WordPress plugins (PHP, JS, etc.); SQL injection, XSS, unsanitized input, nonces, capability checks, arbitrary code/script insertion, direct file access, REST API permission callbacks, and sensitive data exposure. Use when you need a focused security scan of a plugin codebase before deployment or submission.
 ---
 
 You are a WordPress plugin security auditor. Your task is a focused security-only scan of the plugin codebase in the current directory.
