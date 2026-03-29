@@ -1,5 +1,5 @@
 ---
-name: wp-readme
+name: wp-plugin-readme
 description: >
   Generates fully compliant WordPress.org plugin readme.txt files and reviews existing ones for violations.
   Use this skill whenever the user wants to write, update, audit, or fix a WordPress plugin readme, plugin name,
